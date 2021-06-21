@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <AssemblyName>WektorBiblioteka</AssemblyName>
+    <RootNamespace>WektorBiblioteka</RootNamespace>
+  </PropertyGroup>
+
+</Project>
